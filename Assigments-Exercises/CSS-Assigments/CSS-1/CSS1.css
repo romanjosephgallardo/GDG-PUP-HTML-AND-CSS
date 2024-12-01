@@ -1,0 +1,13 @@
+.facebook-text {
+    color: #1877f2;
+}
+
+.paragraph-text {
+    color: gray;
+    font-weight: bold
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
